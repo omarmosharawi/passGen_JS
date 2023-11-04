@@ -8,7 +8,7 @@ To use passGen_JS, you can clone this repository and open the index.html file in
 
 To generate a password, you can choose the length (between 8 and 100 characters). Then, click the "Generate Password" button and copy the password to your clipboard.
 
-## Features and screenshots
+## Features
 
 - passGen_JS allows you to customize your password according to your needs and preferences.
 - passGen_JS uses a secure random number generator to ensure that your password is unpredictable and unique.
